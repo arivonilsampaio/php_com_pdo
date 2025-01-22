@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.DS_Store
+
+# TailwindCSS
+tailwind.config.js
+*.css.map
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Configuração sensível
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
